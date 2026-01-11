@@ -1,5 +1,9 @@
 payload:
 # eBay main
+  - DOMAIN-SUFFIX,*.ebay.com,Proxy
+  - DOMAIN-SUFFIX,*.ebay.co.uk,Proxy
+  - DOMAIN-SUFFIX,*.ebay.de,Proxy
+
   - DOMAIN-SUFFIX,ext-twitch.tv
   - DOMAIN-SUFFIX,pay.ebay.com
   - DOMAIN-SUFFIX,ebay.com
