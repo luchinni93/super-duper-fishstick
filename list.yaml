@@ -1,23 +1,24 @@
 # eBay main
-- DOMAIN-SUFFIX,ebay.com
-- DOMAIN-SUFFIX,ebay.de
-- DOMAIN-SUFFIX,ebay.co.uk
-- DOMAIN-SUFFIX,ebay.fr
-- DOMAIN-SUFFIX,ebay.it
-- DOMAIN-SUFFIX,ebay.es
-- DOMAIN-SUFFIX,ebay.ca
-- DOMAIN-SUFFIX,ebay.com.au
+  - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,ebay.de
+  - DOMAIN-SUFFIX,ebay.co.uk
+  - DOMAIN-SUFFIX,ebay.fr
+  - DOMAIN-SUFFIX,ebay.it
+  - DOMAIN-SUFFIX,ebay.es
+  - DOMAIN-SUFFIX,ebay.ca
+  - DOMAIN-SUFFIX,ebay.com.au
 
 # eBay services
-- DOMAIN-SUFFIX,ebaystatic.com
-- DOMAIN-SUFFIX,ebayimg.com
-- DOMAIN-SUFFIX,ebaycdn.net
-- DOMAIN-SUFFIX,ebayinc.com
+  - DOMAIN-SUFFIX,ebaystatic.com
+  - DOMAIN-SUFFIX,ebayimg.com
+  - DOMAIN-SUFFIX,ebaycdn.net
+  - DOMAIN-SUFFIX,ebayinc.com
 
 # APIs / auth
-- DOMAIN-SUFFIX,ebayrtm.com
-- DOMAIN-SUFFIX,ebayedge.com
+  - DOMAIN-SUFFIX,ebayrtm.com
+  - DOMAIN-SUFFIX,ebayedge.com
 
 # CDN (очень важно)
-- DOMAIN-SUFFIX,akamaized.net
-- DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,akamaihd.net
