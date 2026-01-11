@@ -1,6 +1,7 @@
 payload:
 # eBay main
   - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,pay.ebay.com
   - DOMAIN-SUFFIX,ebay.com
   - DOMAIN-SUFFIX,ebay.de
   - DOMAIN-SUFFIX,ebay.co.uk
